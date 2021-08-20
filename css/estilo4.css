@@ -1,0 +1,73 @@
+body{
+	background-color:#39C;
+}
+.t1{
+	color:#FFF;
+}
+.t2{
+	color:#FFF;
+}
+p{bacgraund-color:#00F;
+margin-right:90px;
+margin-left:90px;
+}
+h3{margin-right:90px;
+margin-left:90px;}
+P{margin-right:90px;
+margin-left:90px;}
+img{margin-right:90px;
+margin-left:90px;
+}
+
+p{font-family:Tahoma, Geneva, sans-serif;
+}
+*{margin:0;
+padding:0;
+box-sizing:border box;
+}
+.form-register{
+width:400px;
+bacground:#FFF;
+padding:30px;
+margin:auto;
+margin-top:100px;
+border-radius:4px;
+font-family:Tahoma, Geneva, sans-serif;
+color:#FFF;
+}
+.form-register h3{
+	font-size:22px;
+	margin-bottom:20px;
+}
+.control{
+	background:#CCC;
+	padding:10px;
+	border-radius:4px;
+	margin-bottom:16px;
+	border:1px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+}
+.form-register p{
+	height:40px;
+	text-aling:center;
+	font-size:18px;
+	}
+.form-register a:hover{
+	color:#FFF;
+	text-decoration:underline;
+	}
+.botons{
+	background:#CCC;
+	border:none;
+	padding:12px;
+	color:#000;
+	margin:16px 0;
+	font-size:16px;
+	}
+h4{margin-right:90px;
+margin-left:90px;
+font-family:Tahoma, Geneva, sans-serif;
+	font-size:30px;
+	
+	}
